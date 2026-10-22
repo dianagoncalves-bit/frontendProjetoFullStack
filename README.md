@@ -158,11 +158,15 @@ Adicione capturas de tela demonstrando:
 Explique com suas palavras:
 
 - Como funciona a comunicação entre o Front-End e o Back-End?
+  O Front-End (a tela) faz um pedido pela internet e o Back-End (o servidor) processa e envia uma resposta de volta
 - Qual é a finalidade do método POST?
+  Ele serve para enviar e salvar uma informação nova no sistema
 - Por que utilizamos `async/await` e `try/catch`?
+  O async/await serve para o site esperar a resposta da internet sem congelar a tela do usuário. O try/catch é o plano B para quando a internet cai ou o servidor falha, garantindo que o site mostre um aviso amigável (ex: "Erro de conexão") em vez de quebrar e parar de funcionar.
 - Quais dificuldades você encontrou durante a atividade?
+  Eu sempre tenho dificculdade de entender a logica do motivo das coisas funcionarem dessa maneira, é como se eu estivesse aprendendo uma nova lingua e só entendesse as palavras mais não as frases.
 
-[Escreva sua conclusão aqui.]
+  Conectar o Front-End e o Back-End exige que todas as ferramentas (POST, async/await, try/catch) trabalhem juntas para guiar a informação com paciência e segurança. A maior dificuldade na atividade foi entender a lógica dessa engrenagem. No começo, programar é como aprender uma nova língua: é fácil entender os comandos isolados (as palavras), mas o verdadeiro desafio é compreender como e por que eles se juntam para fazer o sistema funcionar (as frases).
 
 ---
 
