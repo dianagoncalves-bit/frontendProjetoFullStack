@@ -143,13 +143,15 @@ Adicione capturas de tela demonstrando:
 ![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20163641.png)
 
 **Imagem 4 – Registro inserido no banco de dados**
-
 ![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20163803.png)
+
+![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20164339.png)
+
 ## 8. Repositórios
 
-**Back-End (Fork):** [Inserir link]
+**Back-End (Fork):** https://github.com/dianagoncalves-bit/frontendProjetoFullStack.git
 
-**Front-End:** [Inserir link]
+**Front-End:** (https://github.com/dianagoncalves-bit/ProjetoFullStack.git)
 
 ## 9. Conclusão do aluno
 
